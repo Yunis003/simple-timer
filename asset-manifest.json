@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yunis003/simple-timer/static/css/main.c77b463c.css",
+    "main.js": "/Yunis003/simple-timer/static/js/main.60df30ed.js",
+    "index.html": "/Yunis003/simple-timer/index.html",
+    "main.c77b463c.css.map": "/Yunis003/simple-timer/static/css/main.c77b463c.css.map",
+    "main.60df30ed.js.map": "/Yunis003/simple-timer/static/js/main.60df30ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77b463c.css",
+    "static/js/main.60df30ed.js"
+  ]
+}
